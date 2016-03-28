@@ -1,4 +1,4 @@
-# James Purpura 88625456
+# James Purpura 
 
 # othello_logic 
 
